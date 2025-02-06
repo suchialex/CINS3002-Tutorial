@@ -60,7 +60,7 @@ suchi_print(even_number)  # We can print elements of a list using print
 </details>
 
 After the list is created even_numbers refers to the data elements like so:
-![List Creation](../.tutorial/images/list-creation.png)
+![List Creation](images/list-creation.png)
 
 
 ### b. float list
@@ -264,7 +264,7 @@ print(last)
 
 ### See image below
 
-![Image](../.tutorial/images/list_indexes.svg)
+![Image](images/list_indexes.svg)
 
 
 <details>
