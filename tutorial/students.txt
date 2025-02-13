@@ -1,0 +1,12 @@
+1001
+David OMalley
+COSC
+3.54
+1002
+Edward Lawson
+HIST
+3.66
+1003
+Rowena Gilbert
+ACCT
+3.79
